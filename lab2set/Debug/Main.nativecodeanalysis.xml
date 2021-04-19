@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\andre\source\repos\Lab1\lab2set\</FILEPATH>
+      <FILENAME>Main.cpp</FILENAME>
+      <LINE>72</LINE>
+      <COLUMN>76</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "+" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "+", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>addByFirst</FUNCTION>
+    <DECORATED>?addByFirst@@YAXAAV?$set@V?$bitset@$0CA@@std@@VBitComp@@V?$allocator@V?$bitset@$0CA@@std@@@2@@std@@@Z</DECORATED>
+    <FUNCLINE>68</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\andre\source\repos\Lab1\lab2set\</FILEPATH>
+      <FILENAME>Main.cpp</FILENAME>
+      <LINE>95</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "_getch".</DESCRIPTION>
+    <FUNCTION>openConsoleMenu</FUNCTION>
+    <DECORATED>?openConsoleMenu@@YAXXZ</DECORATED>
+    <FUNCLINE>77</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\andre\source\repos\Lab1\lab2set\</FILEPATH>
+      <FILENAME>Main.cpp</FILENAME>
+      <LINE>145</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "_getch".</DESCRIPTION>
+    <FUNCTION>processTheChoice</FUNCTION>
+    <DECORATED>?processTheChoice@@YAXHAAV?$set@V?$bitset@$0CA@@std@@VBitComp@@V?$allocator@V?$bitset@$0CA@@std@@@2@@std@@@Z</DECORATED>
+    <FUNCLINE>103</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

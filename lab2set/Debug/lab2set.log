@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\andre\source\repos\Lab1\lab2set\Main.cpp(59,15): warning C4018:  <=: несоответствие типов со знаком и без знака
+  lab2set.vcxproj -> C:\Users\andre\source\repos\Lab1\Debug\lab2set.exe
+C:\Users\andre\source\repos\Lab1\lab2set\Main.cpp(72): warning C26451: Арифметическое переполнение: использование оператора "+" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "+", чтобы избежать переполнения (io.2).
+C:\Users\andre\source\repos\Lab1\lab2set\Main.cpp(95): warning C6031: Возвращаемое значение пропущено: "_getch".
+C:\Users\andre\source\repos\Lab1\lab2set\Main.cpp(145): warning C6031: Возвращаемое значение пропущено: "_getch".

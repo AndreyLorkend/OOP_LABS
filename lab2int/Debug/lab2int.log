@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\andre\source\repos\Lab1\lab2int\Main.cpp(29,6): warning C4101:  deletingValue: неиспользованная локальная переменная
+C:\Users\andre\source\repos\Lab1\lab2int\Main.cpp(71,15): warning C4018:  <=: несоответствие типов со знаком и без знака
+  lab2int.vcxproj -> C:\Users\andre\source\repos\Lab1\Debug\lab2int.exe
